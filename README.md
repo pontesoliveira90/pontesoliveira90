@@ -1,6 +1,10 @@
 ## Hi there 👋
 <h1>
   <h1>Uninorte - Turma ADS B</h1>
+
+<div>
+  <p align="center">Olá! Tudo bem? 😃️</p>
+  
 <!--
 **pontesoliveira90/pontesoliveira90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
