@@ -10,7 +10,7 @@
     <img width="10%" align="center" valign="middle" src="https://img.shields.io/youtube/channel/subscribers/UCViaNBT0SIeiVnZSEEtIfjw?label=iCode&style=social  " target="_blank" />
   </a><br>
   <p align="center">E quero te pedir para se inscrever no botão aqui abaixo e vir codar comigo, tua contribuição será muito bem vinda, vlw mesmo! 😉️</p>
-  <img src= https://www.uninorte.com.br/wp-content/themes/uninorte/templates/linhas/conheser/img/bannerx2.webp>"
+  <img src="https://www.uninorte.com.br/wp-content/themes/uninorte/templates/linhas/conheser/img/bannerx2.webp>"
   
 <!--
 **pontesoliveira90/pontesoliveira90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
