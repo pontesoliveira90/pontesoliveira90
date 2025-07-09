@@ -5,7 +5,7 @@
 <div>
   <p align="center">Olá! Tudo bem? 😃️</p>
     <p align="center">Meu nome é <a href="https://www.linkedin.com/in/José/"><i>José Oliveira</i></a> e eu estudo Análise e Desenvolvimento de Sistema Uninorte - Manaus
-  <p align="center">Toda semana compartilho parte do meu aprendizado no meu canal no GITHUB
+  <p align="center">Toda semana compartilho parte do meu aprendizado no meu GITHUB
     <img width="10%" align="center" valign="middle" src="https://img.shields.io/youtube/channel/subscribers/UCViaNBT0SIeiVnZSEEtIfjw?label=iCode&style=social  " target="_blank" />
   </a><br>
   <p align="center">E quero te pedir para se inscrever no botão aqui abaixo e vir codar comigo, tua contribuição será muito bem vinda, vlw mesmo! 😉️</p>
