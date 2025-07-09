@@ -8,7 +8,7 @@
   <p align="center">Toda semana compartilho parte do meu aprendizado no meu GitHub
     <img width="10%" align="center" valign="middle" src="https://img.shields.io/youtube/channel/subscribers/UCViaNBT0SIeiVnZSEEtIfjw?label=iCode&style=social  " target="_blank" />
   </a><br>
-  <p align="center">E quero te pedir para se inscrever no botão aqui abaixo e vir codar comigo, tua contribuição será muito bem vinda, vlw mesmo! 😉️</p>
+  <p align="center">E quero te pedir para se inscrever no botão aqui abaixo e vir codar comigo, tua contribuição será muito bem vinda, agradeço! 😉️</p>
   <img src="https://pbs.twimg.com/profile_images/1197993573607714816/qamO_uUm_400x400.jpg">
 
 
