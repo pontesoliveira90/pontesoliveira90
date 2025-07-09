@@ -5,7 +5,7 @@
 <div>
   <p align="center">Olá! Tudo bem? 😃️</p>
     <p align="center">Meu nome é <a href="https://www.linkedin.com/in/José/"><i>José Oliveira</i></a> e eu estudo Análise e Desenvolvimento de Sistema na <a href="https://www."><i>Trybe</i></a>. 😃️</p>
-  <p align="center">Toda semana compartilho parte do meu aprendizado no meu canal no <a href="https://www.youtube.com/><i>YouTube</i></a><span> 👉🏽️</span>
+  <p align="center">Toda semana compartilho parte do meu aprendizado no meu canal no <a href="https://www.youtube.com
   <a align="rigth"  href="https://www.youtube.com" target="_blank">
     <img width="10%" align="center" valign="middle" src="https://img.shields.io/youtube/channel/subscribers/UCViaNBT0SIeiVnZSEEtIfjw?label=iCode&style=social  " target="_blank" />
   </a><br>
